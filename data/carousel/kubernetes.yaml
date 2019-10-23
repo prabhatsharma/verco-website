@@ -1,0 +1,10 @@
+weight: 3
+title: "Kubernetes"
+description: >
+  <ul class="list-style-none">
+    <li>Migration</li>
+    <li>Management</li>
+    <li>Microservices</li>
+    <li>CI/CD</li>
+  </ul>
+image: "img/carousel/kubernetes2.png"

@@ -1,0 +1,4 @@
+weight: 2
+name: "Kubernetes"
+icon: "fas fa-dharmachakra"
+description: "Operate and manage production ready Kubernetes"

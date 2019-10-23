@@ -1,0 +1,4 @@
+weight: 6
+name: "Application modernization"
+icon: "fas fa-satellite"
+description: "Modify existing applications to work in cloud and containers to reap the benefits provided by them"
