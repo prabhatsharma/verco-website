@@ -6,6 +6,9 @@ keywords = ["FAQ","How do I","questions","what if"]
 
 # Expertise
 
+# DevOps Consulting
+
+
 ## AWS
 
 1. Containers, Kubernetes

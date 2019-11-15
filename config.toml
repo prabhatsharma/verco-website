@@ -29,11 +29,11 @@ paginate = 10
     url  = "/services/"
     weight = 2
 
-[[menu.main]]
-    identifier = "team"
-    name = "Team"
-    url  = "/team/"
-    weight = 2
+# [[menu.main]]
+#     identifier = "team"
+#     name = "Team"
+#     url  = "/team/"
+#     weight = 2
 
 # [[menu.main]]
 #     identifier = "faq"
@@ -52,6 +52,12 @@ paginate = 10
     name = "Contact"
     url  = "/contact/"
     weight = 4
+
+[[menu.main]]
+    identifier = "about"
+    name = "About"
+    url  = "/about/"
+    weight = 5
 
 # Top bar social links menu
 
