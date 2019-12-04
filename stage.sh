@@ -7,7 +7,7 @@ rm -rf public
 hugo
 
 # Move the files to S3 bucket for hosting
-aws2 s3 sync ./public s3://vercosolutions.com/ --acl=public-read --profile=atal-admin
+aws2 s3 sync ./public s3://test.vercosolutions.com/ --acl=public-read --profile=atal-admin
 
 # invalidate cloudfront cache so that latest files can be served
-aws2 cloudfront create-invalidation --distribution-id E2WOVHCXX4K7ZQ --paths=/* --profile=atal-admin
+aws2 cloudfront create-invalidation --distribution-id E12LYAYB27SHO7 --paths=/* --profile=atal-admin
